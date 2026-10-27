@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Yukti — AICTE Application Validation \u0026 Compliance Assistant",
+  "description": "AI-assisted scrutiny platform for AICTE approval validation, document authentication, live regulatory updates ticker, SPOC contact, and explainable compliance triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
